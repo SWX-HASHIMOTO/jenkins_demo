@@ -1,0 +1,3 @@
+aws-credentials:latest
+pipeline-stage-view:latest
+slack:latest
